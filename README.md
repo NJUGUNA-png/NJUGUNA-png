@@ -23,13 +23,6 @@ I'm an *upcoming software engineer* with a passion for building beautiful and fu
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out to me:
-
-- *GitHub*: [Your GitHub Profile](#)
-- *LinkedIn*: [Your LinkedIn Profile](#)
-- *Email*: [Your Email Address](#)
 
 
 Thanks for visiting my profile! Let's build something amazing together. 😊

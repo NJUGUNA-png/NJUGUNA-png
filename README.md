@@ -1,11 +1,11 @@
 # Hi, I'm Brian Njoroge 👋
 
-I'm an upcoming software engineer with a passion for building beautiful and functional web applications. I specialize in front-end development and have a strong foundation in HTML, CSS, JS, React and Git . I'm always eager to learn new technologies and improve my skills to create impactful projects. I'm currently improving my knowledge in Python and SQL.
+I'm an upcoming software engineer with a passion for building beautiful and functional web applications. I specialize in front-end development and have a strong foundation in HTML, CSS, JS, React and Git . I'm always eager to learn new technologies and improve my skills to create impactful projects. I'm currently improving my knowledge in Python,  Typescript and SQL.
 
 
 ## 🛠 Tools & Technologies
 
-- *Languages*: HTML, CSS, JS, React, Python, SQL.
+- *Languages*: HTML, CSS, JS, React, Python, Typescript, SQL.
 - *Version Control*: Git, GitHub
 - *Editors*: VS Code
 - *Other Tools*: Command Line, DevTools
